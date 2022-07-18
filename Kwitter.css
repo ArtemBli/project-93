@@ -1,0 +1,31 @@
+h1 {
+    color:#e34419;
+    font-size:40px;
+}
+
+body
+{
+background-image: linear-gradient(to bottom, #bbc11f, #d9bb25, #c18918, #e3730b, #e34419);
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+#login_button1 {
+    background-color:rgb(10, 207, 37);
+    border-radius: 25%;
+    height:25px;
+    width:80px;
+}
+
+#Name {
+    background-color:rgb(10, 207, 37);
+    border-radius:20%;
+    height:35px;
+    width:330px;
+    font-weight:300;
+    font-style: italic;
+}
